@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.phonegap.test" versionCode="10" version="1.0.0">
-  <preference name="phonegap-version" value="cli-6.3.0" />
+  <preference name="phonegap-version" value="cli-6.5.0" />
   <name>Phonegap Build Starter Application</name>
   <description>Starter application for Phonegap Build.</description>
   <author href="http://www.facebook.com/klidifia" email="klidifia@hotmail.com">Hayden Reid</author>
@@ -14,8 +14,8 @@
   <platform name="ios" />
 
   <!-- Plugins -->
-  <plugin name="cordova-plugin-inappbrowser" version="1.3.0" source="npm" />
-  <plugin name="cordova-plugin-whitelist" version="1.2.1" source="npm" />
+  <plugin name="cordova-plugin-inappbrowser" version="1.7.0" source="npm" />
+  <plugin name="cordova-plugin-whitelist" version="1.3.2" source="npm" />
 
   <!-- Icon -->
   <icon src="icon.png" />
